@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508053778 source:c:\users\suvit\desktop\pr-damelor\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+
+1508094573 source:d:\clasa a 11-a\informatica\lucrate in clasa\backtracking\problema damelor cu modul grafic\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+
+1655411584 source:c:\users\suvit\desktop\backtracking\problema damelor cu modul grafic\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+
